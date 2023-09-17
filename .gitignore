@@ -1,0 +1,6 @@
+# Directories
+node_modules/
+public/
+
+# Hidden files
+.DS_Store
